@@ -1,6 +1,4 @@
-/**
- * Created by callie on 6/1/15.
- */
+
 /*
 var imageArr = ['img/bigeyes.jpg', 'img/catmilk.jpg', 'img/catwithglasses.jpeg', 'img/cutecat.jpg', 'img/fivekiteems1.jpg'];
 var elem = document.getElementById('catPictures');
